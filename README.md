@@ -22,7 +22,14 @@ python main.py main.py [-h] [-n ITERATIONS] [-c COLORS]  [-s SAVE] [-l LEARNRATE
 + -x : first dimension for the network
 + -y : second dimension for the network
 
-# Pictures
+# Dependencies
+for running this code you should have these dependencies:
++ Python 3.5 or above
++ numpy
++ matplotlib
+
+
+# Results
 ![after 100 iterations](./Kohonen100.png)
 ![after 1000 iterations](./Kohonen1000.png)
 ![after 5000 iterations](./Kohonen5000.png)
