@@ -6,7 +6,7 @@ Kohonen Color Mapper for Computational Intelligence course @ IUST
 Kohonen is a kind of unsupervised neural network (Self Organizing Maps)
 
 # Implementation
-`Kohonen.py` has a `Kohonen` class in it wich is the implementation of Kohonen network with ability for learning the network.
+`Kohonen.py` has a `Kohonen` class in it which is the implementation of Kohonen network with ability for learning the network.
 
 # Example
 a color mapper to 2D space is implemented in `main.py` . you can run this example with command below:
